@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\PhanHien_2121110300\Buoi3_3\bin\Debug\Buoi3_3.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\PhanHien_2121110300\Buoi3_3\bin\Debug\Buoi3_3.exe
+c:\users\admin\documents\visual studio 2013\Projects\PhanHien_2121110300\Buoi3_3\bin\Debug\Buoi3_3.pdb
+c:\users\admin\documents\visual studio 2013\Projects\PhanHien_2121110300\Buoi3_3\obj\Debug\Buoi3_3.exe
+c:\users\admin\documents\visual studio 2013\Projects\PhanHien_2121110300\Buoi3_3\obj\Debug\Buoi3_3.pdb
